@@ -1,5 +1,5 @@
 body {
-    background: url(Resources/pexels-pixabay-209831.jpg) no-repeat center center fixed;
+    background: url('Resources/pexels-pixabay-209831.jpg') no-repeat center center fixed;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
